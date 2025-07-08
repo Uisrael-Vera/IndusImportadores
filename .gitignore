@@ -1,0 +1,25 @@
+# Archivos y carpetas que no deben subirse a GitHub
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Archivos de compilación
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Configuraciones locales
+*.dbmdl
+*.cache
+
+# Dependencias externas (si aplica)
+node_modules/
